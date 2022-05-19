@@ -59,7 +59,7 @@ EOF
 #   log_destination      = aws_s3_bucket.ramesh_bkt.arn
 #   log_destination_type = "s3"
 #   traffic_type         = "ALL"
-#   vpc_id               = "" // use your vpc id here
+#   vpc_id               =  use your vpc id here
 #   destination_options {
 #     file_format        = "parquet" 
 #     per_hour_partition = true
