@@ -3,7 +3,7 @@ In this we can create a vpc and vpc flowlogs that will store the logs in cloud w
 
 
 
-terraform init
-terraform plan
-terraform validate
+terraform init<br>
+terraform plan<br>
+terraform validate<br>
 terraform apply --auto-approve
